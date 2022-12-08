@@ -1,0 +1,112 @@
+[
+  {
+    "color": "grey",
+    "id": "807bf6d7-8063-4c71-b861-c7c480f37ec5",
+    "matchers": [
+      "*.github.com",
+      "*.sourcegraph.com"
+    ],
+    "options": {
+      "merge": false,
+      "strict": true
+    },
+    "title": "GitHub"
+  },
+  {
+    "color": "red",
+    "id": "9d7152ca-bac9-460c-9b2d-49a8aee17fca",
+    "matchers": [
+      "*.contentful.com"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Contentful"
+  },
+  {
+    "color": "orange",
+    "id": "f547d54d-6c5f-4a17-8a3e-4e9b1f33e9ff",
+    "matchers": [
+      "stackoverflow.com"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "StackOverflow"
+  },
+  {
+    "color": "blue",
+    "id": "7447907c-4e26-49d5-9c99-1b518aa050b3",
+    "matchers": [
+      "*.zoom.*",
+      "*.zoom.us"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Zoom"
+  },
+  {
+    "color": "green",
+    "id": "411934d5-403c-4e2d-98c4-dd4a52729ca1",
+    "matchers": [
+      "*.uswitch.com"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Prod"
+  },
+  {
+    "color": "orange",
+    "id": "47c4f81e-1aa2-4f66-a2bf-e7eb5fcd409a",
+    "matchers": [
+      "*.authed.rvu.cloud"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Staging"
+  },
+  {
+    "color": "pink",
+    "id": "13eb6121-7f65-4ca1-ae68-5f7349eea7b4",
+    "matchers": [
+      "localhost"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Dev"
+  },
+  {
+    "color": "purple",
+    "id": "9927707e-ffbc-4959-b330-214794603a46",
+    "matchers": [
+      "*.figma.com"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Figma"
+  },
+  {
+    "color": "cyan",
+    "id": "6a5889db-eb40-4c88-9708-6a5c55836ad3",
+    "matchers": [
+      "*.internal.usw.co"
+    ],
+    "options": {
+      "merge": false,
+      "strict": false
+    },
+    "title": "Ingress"
+  }
+]
